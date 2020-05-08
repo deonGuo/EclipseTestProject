@@ -27,7 +27,7 @@ public class basics {
 		.then().assertThat().statusCode(200).body("scope", equalTo("APP")).header("server", "Apache/2.4.18 (Ubuntu)")
 		.extract().response().asString();
 		 
-		System.out.println(response);
+		System.out.println("the frist response: "+response);
 		JsonPath js = new JsonPath(response);	//for parsing Json
 		String placeId = js.getString("place_id");
 		

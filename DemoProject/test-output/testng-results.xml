@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-04-09T15:36:18 BST" name="Default suite" finished-at="2020-04-09T15:36:19 BST" duration-ms="1328">
+  <suite started-at="2020-05-07T12:19:10 BST" name="Default suite" finished-at="2020-05-07T12:19:11 BST" duration-ms="1347">
     <groups>
     </groups>
-    <test started-at="2020-04-09T15:36:18 BST" name="Default test" finished-at="2020-04-09T15:36:19 BST" duration-ms="1328">
+    <test started-at="2020-05-07T12:19:10 BST" name="Default test" finished-at="2020-05-07T12:19:11 BST" duration-ms="1347">
       <class name="files.SumValidation">
-        <test-method signature="SumOfCourses()[pri:0, instance:files.SumValidation@3c130745]" started-at="2020-04-09T15:36:18 BST" name="SumOfCourses" finished-at="2020-04-09T15:36:19 BST" duration-ms="1290" status="PASS">
+        <test-method signature="SumOfCourses()[pri:0, instance:files.SumValidation@3c130745]" started-at="2020-05-07T12:19:10 BST" name="SumOfCourses" finished-at="2020-05-07T12:19:11 BST" duration-ms="1315" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SumOfCourses -->
